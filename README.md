@@ -1,7 +1,6 @@
 # tableau_practice
 
-직접 만든 대시보드 : https://public.tableau.com/app/profile/jihun.kim1421/viz/e-commercedataset_17163683281830/E-Commerce?publish=yes  
-
+직접 만든 대시보드 : https://public.tableau.com/app/profile/jihun.kim1421/viz/e-commercedataset_17163683281830/E-Commerce?publish=yes   
 
 여지껏 태블로나 다른 BI툴을 거의 사용한 적이 없이 항상 파이썬 내장 패키지나 plotly를 이용해서 시각화를 해 왔었기에 태블로를 처음부터 배울겸 태블로 자격증 (tableau desktop specialist) 공부도 같이 하기로 하였다.  
 무료 버전인 태블로 퍼블릭을 이용.  
