@@ -1,6 +1,7 @@
 # tableau_practice
 
-직접 만든 대시보드 : https://public.tableau.com/app/profile/jihun.kim1421/viz/e-commercedataset_17163683281830/E-Commerce?publish=yes
+직접 만든 대시보드 : https://public.tableau.com/app/profile/jihun.kim1421/viz/e-commercedataset_17163683281830/E-Commerce?publish=yes  
+
 대시보드 내 아이콘 참조 : https://icons8.com/icons/nolan  
 
 
